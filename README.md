@@ -13,3 +13,4 @@ Le fichier de config permet de donner l'ensemble des argument pour le fonctionne
 
 Les fichier sont créés avec au début le numéro du jour de la semaine (lundi 1- mardi 2- ...) donc avec une sauvegarde par jour vous aurez 7 jours de fichier et les anciens fichiers seront écrasés tous les jours.
 
+Retrouver le bolg ici http://rasp-pi.fr.nf
