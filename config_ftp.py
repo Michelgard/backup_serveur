@@ -13,10 +13,10 @@ fichierLog = '/home/michelgard/ftp_python/'
 #Données pour le mail													
 smtp = 'smtp.gmail.com'												
 portSmtp = 587															
-mailLogin = 'xxxxxxxx.gard@gmail.com'						
+mailLogin = 'xxxxxxxx.xxxx@gmail.com'						
 passLogin = 'xxxxxxxxx'													
-email_from = 'xxxxxxxxxxxxxx.gard@gmail.com'						
-email_to = 'xxxxxxxxxxxx.gard@gmail.com'						
+email_from = 'xxxxxxxxxxxxxx.xxxx@gmail.com'						
+email_to = 'xxxxxxxxxxxx.xxxx@gmail.com'						
 																				
 mailOK = True																
 sujetMailOK = 'Procédure de sauvegarde serveur'				
